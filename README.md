@@ -36,8 +36,8 @@
 
 💻{Where I learnt how to code}💻
 <p>
-<img src="images/scrimba.svg"/>
 <img src="images/fcc.svg"/>
 <img src="images/udemy.svg"/>
 <img src="images/codeacdemy.svg"/>
+<img src="images/scrimba.svg"/>
 </p>
