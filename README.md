@@ -1,3 +1,3 @@
 # mariamALLI
  README.md
- [header](images/github%20banner%20Video.mp4)
+ ![banner](images/Rustic%20Banner.png)
