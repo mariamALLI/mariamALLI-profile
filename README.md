@@ -10,7 +10,7 @@
 
 
 # Skills
-- {Operating System}
+{Operating System}
  <p>
  <img src="images/mac%20.svg"/>
 </p>
