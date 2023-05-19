@@ -40,7 +40,7 @@
 
 
 
-💻{Where I learnt how to code}💻
+💻 Where I learnt how to code 💻
 <p>
 <img src="images/fcc.svg"/>
 <img src="images/udemy.svg"/>
