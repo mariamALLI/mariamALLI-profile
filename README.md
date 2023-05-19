@@ -15,6 +15,8 @@
  <img src="images/mac%20.svg"/>
 </p>
 
+
+
 🛠️{languages and tools: frontend}🛠️
 <p>
 <img src="images/html.svg"/>
@@ -28,11 +30,15 @@
 <img src="images/vscode.svg"/>
 </p>
 
+
+
 🌈💐{Design}🌈💐
 <p>
 <img src="images/figma.svg"/>
 <img src="images/canva.svg"/>
 </p>
+
+
 
 💻{Where I learnt how to code}💻
 <p>
